@@ -3,4 +3,4 @@
 ----
 ## Author - Md Gulfraz
 ---
-<img src="https://github.com/pykinsu.png" alt="image" w="25" />
+<img src="https://github.com/pykinsu.png" alt="image" W="25" />
