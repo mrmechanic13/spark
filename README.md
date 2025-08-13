@@ -1,6 +1,6 @@
-## hey i am gulfraz 
+## Hey, I am Gulfraz
 
 ----
-## author - md gulfraz
+## Author - Md Gulfraz
 ---
-<img src="https://github.com/pykinsu.png" alt"image"  />
+<img src="https://github.com/pykinsu.png" alt="image"  />
