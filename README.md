@@ -3,4 +3,4 @@
 ----
 ## author - md gulfraz
 ---
-<img src="hhtps://github.com/pykinshu.png" alt"image"  />
+<img src="https://github.com/pykinsu.png" alt"image"  />
